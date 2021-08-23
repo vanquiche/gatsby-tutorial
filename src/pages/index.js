@@ -9,6 +9,7 @@ const IndexPage = () => {
       <StaticImage
         alt='Kitty pawing at camera'
         src='../images/kitty.jpg'
+        placeholder='blurred'
       />
     </Layout>
   );
